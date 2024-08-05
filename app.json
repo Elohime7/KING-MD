@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "OWNER NAME",
-      "value": "NAVEED DOGAR"
+      "value": "ᏒᎽᎠᎬᏒ ᏰᏝᎯᏃᎬ"
   },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
@@ -48,7 +48,7 @@
      "ANTILINK_ACTION": {
     "description": "Put action for antilink",
      "value": "kick",
-     "required" :false
+     "required" :true
     },
   "LEVEL_UP_MESSAGE": {
     "description": "Fill the value true if you want bot send Level up message in chat.",
@@ -58,7 +58,7 @@
       "CAPTION": {
     "description": "Fill the value your bot caption",
      "required" :false,
-     "value": "© GENERATE BY KING MD"
+     "value": "© GENERATE BY ᏒᎽᎠᎬᏒ"
     },
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
@@ -68,7 +68,7 @@
     "BOT_NAME": {
 	    "description": "Choose your bot name",
 	    "required": "true",
-	    "value": "*KING-MD*"
+	    "value": "ᏢᎽᎠᏒᎾᎨᎠ"
 },
     "DISABLE_PM": {
       "description": "Disable bot in pm",
@@ -77,11 +77,11 @@
     },
       "PREFIX": {
   "description": "Enter your desired prefix for bot.",
-      "value": "."
+      "value": "-"
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "92Xxxxxxxx"
+       "value": "243980635216"
   },
    "SESSION_ID": {
     "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to KING-MD Github Repo U can find the Scanner Option"
@@ -116,11 +116,11 @@
   },
   "PACK_AUTHER": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": "naveeddogar"
+    "value": "ᏒᎽᎠᎬᏒ ᏰᏝᎯᏃᎬ"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "king-mdbot"
+    "value": "ᏒᎽᎠᎬᏒ ᏰᏝᎯᏃᎬ"
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
